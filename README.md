@@ -1,5 +1,5 @@
 # Reveal
-A simple bash script that discovers a given host's open ports and OS using NMAP and TTL information.
+A handy bash script designed to identify open ports and determine the operating system of a specified host by leveraging NMAP and analyzing TTL information.
 
 ![Reveal](Reveal.png)
 
